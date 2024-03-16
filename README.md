@@ -1,8 +1,6 @@
 ### Napredno Web programiranje 
 ## Laboratorijske vježbe – vježba 2
 
-**NAPOMENA**
-
 ### Zadatak 1
 Razultat sigurnosne kopije (engl. backup) baze podataka (koja u mom slučaju sadrži samo jednu tablicu) može se vidjet u backup direktoriju.
 
